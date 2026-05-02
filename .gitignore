@@ -1,0 +1,7 @@
+# Temporary/script files
+archive.sh
+fix_youtube.sh
+fix_youtube2.sh
+*.tmp
+.DS_Store
+Thumbs.db

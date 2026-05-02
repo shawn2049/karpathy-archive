@@ -1,1 +1,7 @@
-URL: https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
+{
+  "title": "CS231n Winter 2016",
+  "description": "",
+  "videoCount": 15,
+  "updatedDate": null,
+  "author": "Andrej Karpathy"
+}
