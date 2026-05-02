@@ -1,0 +1,10 @@
+VMj-3S1tku0 The spelled-out intro to neural networks and backpropagation: building micrograd
+PaCmpygFfXo The spelled-out intro to language modeling: building makemore
+TCH_1BHY58I Building makemore Part 2: MLP
+P6sfmUTpUmc Building makemore Part 3: Activations & Gradients, BatchNorm
+q8SA3rM6ckI Building makemore Part 4: Becoming a Backprop Ninja
+t3YJ5hKiMQ0 Building makemore Part 5: Building a WaveNet
+kCc8FmEb1nY Let's build GPT: from scratch, in code, spelled out.
+bZQun8Y4L2A State of GPT | BRK216HFS
+zduSFxRajkE Let's build the GPT Tokenizer
+l8pRSuU81PU Let's reproduce GPT-2 (124M)

@@ -1,0 +1,15 @@
+NfnWJUyUJYU CS231n Winter 2016: Lecture1: Introduction and Historical Context
+8inugqHkfvE CS231n Winter 2016: Lecture 2: Data-driven approach, kNN, Linear Classification 1
+qlLChbHhbg4 CS231n Winter 2016: Lecture 3: Linear Classification 2, Optimization
+i94OvYb6noo CS231n Winter 2016: Lecture 4: Backpropagation, Neural Networks 1
+gYpoJMlgyXA CS231n Winter 2016: Lecture 5: Neural Networks Part 2
+hd_KFJ5ktUc CS231n Winter 2016: Lecture 6: Neural Networks Part 3 / Intro to ConvNets
+LxfUGhug-iQ CS231n Winter 2016: Lecture 7: Convolutional Neural Networks
+GxZrEKZfW2o CS231n Winter 2016: Lecture 8: Localization and Detection
+ta5fdaqDT3M CS231n Winter 2016: Lecture 9: Visualization, Deep Dream, Neural Style, Adversarial Examples
+yCC09vCHzF8 CS231n Winter 2016: Lecture 10: Recurrent Neural Networks, Image Captioning, LSTM
+pA4BsUK3oP4 CS231n Winter 2016: Lecture 11: ConvNets in practice
+Vf_-OkqbwPo CS231n Winter 2016: Lecture 12: Deep Learning libraries
+ekyBklxwQMU CS231n Winter 2016: Lecture 14: Videos and Unsupervised Learning
+ByjaPdWXKJ4 CS231n Winter 2016: Lecture 13: Segmentation, soft attention, spatial transformers
+T7YkPWpwFD4 CS231n Winter 2016: Lecture 15: Invited Talk by Jeff Dean
