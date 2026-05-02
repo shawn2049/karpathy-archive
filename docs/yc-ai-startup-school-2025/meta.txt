@@ -1,7 +1,6 @@
-Title: https://www.youtube.com/watch?v=LCEmiRjPEtQ
+Title: Andrej Karpathy: Software Is Changing (Again)
+Author: Y Combinator
+Source URL: https://www.youtube.com/watch?v=LCEmiRjPEtQ
+Video ID: LCEmiRjPEtQ
 
-URL: https://www.youtube.com/watch?v=LCEmiRjPEtQ
-
-Description: 
-
-(Metadata extracted from page HTML on 2026-05-02 12:14 UTC)
+(Metadata extracted via oembed API on 2026-05-02 12:15 UTC)

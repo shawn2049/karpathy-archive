@@ -1,7 +1,6 @@
-Title: https://www.youtube.com/watch?v=FH5wiwOyPX4
+Title: GPU MODE IRL 2024 Keynotes
+Author: GPU MODE
+Source URL: https://www.youtube.com/watch?v=FH5wiwOyPX4
+Video ID: FH5wiwOyPX4
 
-URL: https://www.youtube.com/watch?v=FH5wiwOyPX4
-
-Description: 
-
-(Metadata extracted from page HTML on 2026-05-02 12:14 UTC)
+(Metadata extracted via oembed API on 2026-05-02 12:15 UTC)

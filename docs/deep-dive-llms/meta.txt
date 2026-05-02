@@ -1,7 +1,6 @@
-Title: https://www.youtube.com/watch?v=7xTGNNLPyMI
+Title: Deep Dive into LLMs like ChatGPT
+Author: Andrej Karpathy
+Source URL: https://www.youtube.com/watch?v=7xTGNNLPyMI
+Video ID: 7xTGNNLPyMI
 
-URL: https://www.youtube.com/watch?v=7xTGNNLPyMI
-
-Description: 
-
-(Metadata extracted from page HTML on 2026-05-02 12:14 UTC)
+(Metadata extracted via oembed API on 2026-05-02 12:15 UTC)

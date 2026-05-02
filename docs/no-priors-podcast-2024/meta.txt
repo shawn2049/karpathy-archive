@@ -1,7 +1,6 @@
-Title: https://www.youtube.com/watch?v=hM_h0UA7upI
+Title: No Priors Ep. 80 | With Andrej Karpathy from OpenAI and Tesla
+Author: No Priors: AI, Machine Learning, Tech, & Startups
+Source URL: https://www.youtube.com/watch?v=hM_h0UA7upI
+Video ID: hM_h0UA7upI
 
-URL: https://www.youtube.com/watch?v=hM_h0UA7upI
-
-Description: 
-
-(Metadata extracted from page HTML on 2026-05-02 12:14 UTC)
+(Metadata extracted via oembed API on 2026-05-02 12:15 UTC)

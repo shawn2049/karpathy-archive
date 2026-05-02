@@ -1,7 +1,6 @@
-Title: https://www.youtube.com/watch?v=lXUZvyajciY
+Title: Andrej Karpathy — “We’re summoning ghosts, not building animals”
+Author: Dwarkesh Patel
+Source URL: https://www.youtube.com/watch?v=lXUZvyajciY
+Video ID: lXUZvyajciY
 
-URL: https://www.youtube.com/watch?v=lXUZvyajciY
-
-Description: 
-
-(Metadata extracted from page HTML on 2026-05-02 12:14 UTC)
+(Metadata extracted via oembed API on 2026-05-02 12:15 UTC)

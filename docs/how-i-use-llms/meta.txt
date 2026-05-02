@@ -1,7 +1,6 @@
-Title: https://www.youtube.com/watch?v=EWvNQjAaOHw
+Title: How I use LLMs
+Author: Andrej Karpathy
+Source URL: https://www.youtube.com/watch?v=EWvNQjAaOHw
+Video ID: EWvNQjAaOHw
 
-URL: https://www.youtube.com/watch?v=EWvNQjAaOHw
-
-Description: 
-
-(Metadata extracted from page HTML on 2026-05-02 12:14 UTC)
+(Metadata extracted via oembed API on 2026-05-02 12:15 UTC)

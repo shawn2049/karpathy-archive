@@ -1,7 +1,6 @@
-Title: https://www.youtube.com/watch?v=tsTeEkzO9xc&amp;feature=youtu.be
+Title: Andrej Karpathy's Keynote & Winner Pitches at UC Berkeley AI Hackathon 2024 Awards Ceremony
+Author: Berkeley SkyDeck
+Source URL: https://youtu.be/tsTeEkzO9xc
+Video ID: tsTeEkzO9xc
 
-URL: https://youtu.be/tsTeEkzO9xc
-
-Description: 
-
-(Metadata extracted from page HTML on 2026-05-02 12:14 UTC)
+(Metadata extracted via oembed API on 2026-05-02 12:15 UTC)
